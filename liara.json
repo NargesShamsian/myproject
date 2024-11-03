@@ -1,0 +1,13 @@
+{
+    "larvel": {
+        "phpVersion": "8.2"
+    },
+    "disks": [
+        {
+            "name": "images",
+            "mountTo": "public/images"
+        }
+    ]
+
+    
+}
